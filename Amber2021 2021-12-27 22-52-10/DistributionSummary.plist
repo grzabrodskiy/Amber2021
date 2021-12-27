@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AmberClip.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C01DCD76CDFF737E681AF8E1F9933323C9059502</string>
+				<key>dateExpires</key>
+				<string>20.12.22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C01DCD76CDFF737E681AF8E1F9933323C9059502</string>
+						<key>dateExpires</key>
+						<string>20.12.22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Z83J76LC2A</string>
+						<key>name</key>
+						<string>Alex Zabrodskiy</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C01DCD76CDFF737E681AF8E1F9933323C9059502</string>
+						<key>dateExpires</key>
+						<string>20.12.22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>ViroKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Z83J76LC2A</string>
+						<key>name</key>
+						<string>Alex Zabrodskiy</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z83J76LC2A.Amber2021.Clip</string>
+				<key>com.apple.developer.on-demand-install-capable</key>
+				<true/>
+				<key>com.apple.developer.parent-application-identifiers</key>
+				<array>
+					<string>Z83J76LC2A.Amber2021</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z83J76LC2A</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>AmberClip.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cd0219db-b5ff-48ce-86a0-0ae4ab2224d2</string>
+				<key>dateExpires</key>
+				<string>27.12.22</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: Amber2021.Clip</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z83J76LC2A</string>
+				<key>name</key>
+				<string>Alex Zabrodskiy</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

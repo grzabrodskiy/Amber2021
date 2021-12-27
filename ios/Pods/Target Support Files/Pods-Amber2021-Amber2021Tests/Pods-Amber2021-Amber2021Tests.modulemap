@@ -1,0 +1,6 @@
+module Pods_Amber2021_Amber2021Tests {
+  umbrella header "Pods-Amber2021-Amber2021Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
