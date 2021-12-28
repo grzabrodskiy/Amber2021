@@ -1,3 +1,2 @@
 ${PODS_ROOT}/Target Support Files/Pods-Amber2021-Amber2021Tests/Pods-Amber2021-Amber2021Tests-frameworks.sh
 ${PODS_ROOT}/../../node_modules/@viro-community/react-viro/ios/dist/ViroRenderer/ViroKit.framework
-${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL

@@ -14,7 +14,7 @@ const HelloWorldSceneAR = () => {
   function onInitialized(state, reason) {
     console.log('guncelleme', state, reason);
     if (state === ViroConstants.TRACKING_NORMAL) {
-      setText('Hello World!');
+      setText('Amber');
     } else if (state === ViroConstants.TRACKING_NONE) {
       // Handle loss of tracking
     }
